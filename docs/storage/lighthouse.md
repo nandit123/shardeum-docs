@@ -1,5 +1,5 @@
 ---
-title: Lighthouse Storage and Encryption
+title: Lighthouse
 sidebar_position: 4
 ---
 
