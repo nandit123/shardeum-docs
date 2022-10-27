@@ -3,6 +3,8 @@ title: Lighthouse Storage and Encryption
 sidebar_position: 4
 ---
 
+<img src="https://gateway.lighthouse.storage/ipfs/Qmc5LnkF1QwTst5ikoZyT5yZRzdsuijB5n95eLTDeFNTwb" alt="Lighthouse Logo" height=200px>
+
 ## Decentralized Perpetual storage with Lighthouse
 
 Lighthouse is a perpetual file storage protocol that allows the ability to pay once and store your files forever. Lighthouse store your data on IPFS and ensures minimum number of replications across various Filecoin miners, abstracting all complexities and long-term storage functionality. Developers can also store encrypted data on Lighthouse and build token gated applications.
