@@ -3,7 +3,7 @@ title: Lighthouse
 sidebar_position: 4
 ---
 
-<img src="https://gateway.lighthouse.storage/ipfs/Qmc5LnkF1QwTst5ikoZyT5yZRzdsuijB5n95eLTDeFNTwb" alt="Lighthouse Logo" height=200px>
+<img src="https://gateway.lighthouse.storage/ipfs/Qmc5LnkF1QwTst5ikoZyT5yZRzdsuijB5n95eLTDeFNTwb" alt="Lighthouse Logo" height=200px />
 
 ## Decentralized Perpetual storage with Lighthouse
 
